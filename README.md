@@ -8,7 +8,7 @@ Spider Webdev Task 2 Fully Backend (Updated)
 <br>
 3. Put this folder in the root.
 <br>
-4. index.php is main file.Run by enterin localhost/reg2.
+4. index.php is main file.Run by entering localhost/reg2.
 <br>
 
 # Features:
